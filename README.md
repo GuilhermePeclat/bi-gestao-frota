@@ -2,6 +2,8 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+[Acesse o dashboard aqui](https://app.powerbi.com/view?r=eyJrIjoiN2M3YjVhNjItNGJjMC00OWRhLWE1MGQtMDAzODE1NzcwYWI1IiwidCI6IjhlZWNhNDA0LWE0N2QtNDU1NS1hMmQ0LTBmMzYxOTA0MWM5YyJ9)
+
 Dashboard de Gestão de Frota — Power BI
 
 Dashboard desenvolvido para uso corporativo, com foco no controle e análise 
